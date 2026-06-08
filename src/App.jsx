@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom"
 import BtmHeader from "./component/header/BtmHeader"
 import TopHeader from "./component/header/TopHeader"
-import Home from "./page/Home/Home"
+import Home from "./page/home/Home"
 import ProductDetails from "./page/ProductDetails/ProductDetails"
 import Cart from "./page/cart/Cart"
 import { Toaster } from "react-hot-toast"
