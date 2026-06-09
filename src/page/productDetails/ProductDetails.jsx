@@ -4,7 +4,7 @@ import { useParams } from 'react-router-dom'
 import './ProductDetails.css'
 import SlideProduct from '../../component/slideProducts/SlideProduct'
 import Loading from './Loading'
-import ProductImages from './productImages'
+import ProductImages from './ProductImages'
 import ProductInformation from './productInformation'
 import PageTransition from '../../component/PageTransition'
 

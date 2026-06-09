@@ -1,6 +1,6 @@
 import React from 'react'
 
-function productImages({ product }) {
+function ProductImages({ product }) {
     return (
         <div className="images">
             <div className='big_img'>
@@ -21,4 +21,4 @@ function productImages({ product }) {
     )
 }
 
-export default productImages
+export default ProductImages
