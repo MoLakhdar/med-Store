@@ -5,7 +5,7 @@ import './ProductDetails.css'
 import SlideProduct from '../../component/slideProducts/SlideProduct'
 import Loading from './Loading'
 import ProductImages from './ProductImages'
-import ProductInformation from './productInformation'
+import ProductInformation from './ProductInformation'
 import PageTransition from '../../component/PageTransition'
 
 
